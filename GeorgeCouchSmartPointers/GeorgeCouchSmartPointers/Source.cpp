@@ -1,3 +1,9 @@
+/* Block Comment Header
+Name George Couch and Brett Smitch
+Date 09/26/2021
+Our smart pointer assignment that teaches the user about smart pointers! We didn't feel the need to comment things out due to the fact the cout describes most
+of everything immediately above the code
+*/
 #include <string>
 #include <iostream>
 #include <memory>
